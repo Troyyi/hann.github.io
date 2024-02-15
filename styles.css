@@ -1,6 +1,6 @@
 .hero {
-    background-color: #074f57;
-    color: white;
+    background-color: #19b5c7;
+    color: red;
 }
 
 .container {
@@ -12,6 +12,6 @@
 }
 
 body {
-    background-image: url("Image\Hub/cover\image.jpg")
+    background-image: url("coverimage.jpg")
 
 }
