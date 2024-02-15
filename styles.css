@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+    background-image: url(cover\ image.jpg);
+}
+
 .hero {
     background-color: #19b5c7;
     color: red;
@@ -9,9 +15,4 @@
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
-}
-
-body {
-    background-image: url("coverimage.jpg")
-
 }
