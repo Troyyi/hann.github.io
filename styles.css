@@ -2,7 +2,8 @@ body {
     margin: 0;
     font-family: system-ui;
     background-image: url(cover\ image.jpg);
-    background-repeat: no-repeat ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero {
