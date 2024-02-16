@@ -3,8 +3,8 @@ body {
 }
 
 .hero {
-    background-color: #19b5c7;
     background-image: url(cover\ image.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     color: black;
 }
