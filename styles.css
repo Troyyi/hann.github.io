@@ -1,14 +1,12 @@
 body {
-    margin: 0;
-    font-family: system-ui;
-    background-image: url(cover\ image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 
 .hero {
     background-color: #19b5c7;
-    color: red;
+    background-image: url(cover\ image.jpg);
+    background-size: cover;
+    color: black;
 }
 
 .container {
