@@ -3,13 +3,14 @@ body {
 }
 
 .hero {
-    background-image: url(cover\ image.jpg);
+    
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
 }
 
 .container {
+    background-image: url(cover\ image.jpg);
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
