@@ -11,6 +11,7 @@ body {
 
 .container {
     background-image: url(cover\ image.jpg);
+    background-repeat: no-repeat;
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
