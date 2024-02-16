@@ -16,3 +16,7 @@
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
+.one {
+    border-color:blueviolet; 
+    border-style:double}
