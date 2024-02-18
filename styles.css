@@ -1,22 +1,52 @@
+.body {
+    width: 960px;
+    margin: 0 auto;}
+
+
+    #content {
+overflow: auto;
+height: 100%;}
+
+
+#nav, #feature, #footer {
+background-color:aliceblue;
+padding: 10px;
+margin: 10px; }
+
+
+.column1, .column2, .column3 {
+background-color:lavenderblush;
+width: 300px;
+float: left;
+margin: 10px; }
+
+
+li {
+display: inline;
+padding: 5px; }
+
+
 .hero {
-   
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: black;
+
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
 }
 
 
 .container {
-    background-image: url(cover\ image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 1rem;
-    padding-right: 1rem;
+background-image: url(cover\ image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1rem;
+padding-right: 1rem;
 }
 
 
 .one {
-    border-color:blueviolet;
-    border-style:double}
+border-color:blueviolet;
+border-style:groove}
+
+
