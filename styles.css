@@ -1,11 +1,10 @@
-
-
 .hero {
-    
+   
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
 }
+
 
 .container {
     background-image: url(cover\ image.jpg);
@@ -17,6 +16,7 @@
     padding-right: 1rem;
 }
 
+
 .one {
-    border-color:blueviolet; 
+    border-color:blueviolet;
     border-style:double}
